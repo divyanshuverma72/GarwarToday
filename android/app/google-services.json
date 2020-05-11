@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "434460197442",
+    "firebase_url": "https://garwar-block.firebaseio.com",
+    "project_id": "garwar-block",
+    "storage_bucket": "garwar-block.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434460197442:android:c10e064de20e9f8faa23db",
+        "android_client_info": {
+          "package_name": "co.divyanshuVerma.garwarBlock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434460197442-qb12vlk1e4sf82cp7d4o2e24f9kn46kk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvm6YbI0-rB7uKj1RfRIBAPm3_EYW2P5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434460197442-qb12vlk1e4sf82cp7d4o2e24f9kn46kk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
